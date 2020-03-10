@@ -1,0 +1,9 @@
+G:\mir2-master\mir2-master\Build\Server Tools\AutoPatcherAdmin\AutoPatcherAdmin.exe.config
+G:\mir2-master\mir2-master\Build\Server Tools\AutoPatcherAdmin\AutoPatcherAdmin.exe
+G:\mir2-master\mir2-master\Build\Server Tools\AutoPatcherAdmin\AutoPatcherAdmin.pdb
+G:\mir2-master\mir2-master\AutoPatcherAdmin\obj\Debug\AutoPatcherAdmin.AMain.resources
+G:\mir2-master\mir2-master\AutoPatcherAdmin\obj\Debug\AutoPatcherAdmin.Properties.Resources.resources
+G:\mir2-master\mir2-master\AutoPatcherAdmin\obj\Debug\AutoPatcherAdmin.csproj.GenerateResource.cache
+G:\mir2-master\mir2-master\AutoPatcherAdmin\obj\Debug\AutoPatcherAdmin.exe
+G:\mir2-master\mir2-master\AutoPatcherAdmin\obj\Debug\AutoPatcherAdmin.pdb
+G:\mir2-master\mir2-master\AutoPatcherAdmin\obj\Debug\AutoPatcherAdmin.csprojAssemblyReference.cache

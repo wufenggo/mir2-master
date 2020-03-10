@@ -1,0 +1,11 @@
+G:\mir2-master\mir2-master\Build\Server Tools\LibraryViewer\CMirLibraryViewer.exe.config
+G:\mir2-master\mir2-master\Build\Server Tools\LibraryViewer\CMirLibraryViewer.exe
+G:\mir2-master\mir2-master\Build\Server Tools\LibraryViewer\CMirLibraryViewer.pdb
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\LibraryViewer.LMain.resources
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\LibraryViewer.LoadSettings.resources
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\CMirLibraryViewer.Properties.Resources.resources
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\LibraryViewer.csproj.GenerateResource.cache
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\LibraryViewer.csproj.CopyComplete
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\CMirLibraryViewer.exe
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\CMirLibraryViewer.pdb
+G:\mir2-master\mir2-master\LibraryViewer\obj\Debug\LibraryViewer.csprojAssemblyReference.cache

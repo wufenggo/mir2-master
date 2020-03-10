@@ -1,0 +1,10 @@
+G:\mir2-master\mir2-master\Build\Server Tools\LibraryEditor\LibraryEditor.exe.config
+G:\mir2-master\mir2-master\Build\Server Tools\LibraryEditor\LibraryEditor.exe
+G:\mir2-master\mir2-master\Build\Server Tools\LibraryEditor\LibraryEditor.pdb
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\LibraryEditor.LMain.resources
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\Library_Editor.Properties.Resources.resources
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\LibraryEditor.csproj.GenerateResource.cache
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\LibraryEditor.csproj.CopyComplete
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\LibraryEditor.exe
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\LibraryEditor.pdb
+G:\mir2-master\mir2-master\LibraryEditor\obj\x86\Debug\LibraryEditor.csprojAssemblyReference.cache
