@@ -6415,7 +6415,7 @@ public class GameLanguage
                          ChatSettings = "聊天设置",
                          Rotate = "旋转",
                          Close = "关闭 ({0})",
-                         GameMaster = "GameMaster",
+                         GameMaster = "游戏管理员",
 
                          PatchErr = "无法获取修补程序信息",
                          LastOnline = "上次在线时间",
@@ -6618,7 +6618,7 @@ public class GameLanguage
                          LowDC = "你的攻击不够.",
                          LowMC = "你的魔法不够.",
                          LowSC = "你的道术不够.",
-                         GameName = "Legend of Mir2",
+                         GameName = "传奇2",
                          ExpandedStorageExpiresOn = "扩展存储到期",
 
                          NotFemale = "你不是女性.",
