@@ -858,11 +858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\mir2-master\\mir2-master\\Server\\Server.Library.csproj",
+      "projectUniqueName": "G:\\mir2-master\\Server\\Server.Library.csproj",
       "projectName": "Server.Library",
-      "projectPath": "G:\\mir2-master\\mir2-master\\Server\\Server.Library.csproj",
+      "projectPath": "G:\\mir2-master\\Server\\Server.Library.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\mir2-master\\mir2-master\\Server\\obj\\",
+      "outputPath": "G:\\mir2-master\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
