@@ -1,6 +1,0 @@
-[2020/3/9 9:45:05]: 0 Recipes loaded.
-[2020/3/9 9:45:05]: 0 Maps Loaded.
-[2020/3/9 9:45:05]: Drops Loaded.
-[2020/3/9 9:45:05]: Envir Started.
-[2020/3/9 9:45:05]: Cannot start server without start points
-[2020/3/9 9:45:05]: Envir Stopped.
