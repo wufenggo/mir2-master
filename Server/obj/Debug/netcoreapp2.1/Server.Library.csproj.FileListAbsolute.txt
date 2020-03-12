@@ -9,7 +9,6 @@ G:\mir2-master\mir2-master\Server\obj\Debug\netcoreapp2.1\Server.Library.csprojA
 G:\mir2-master\Build\Server\netcoreapp2.1\Server.Library.deps.json
 G:\mir2-master\Build\Server\netcoreapp2.1\Server.Library.dll
 G:\mir2-master\Build\Server\netcoreapp2.1\Server.Library.pdb
-G:\mir2-master\Server\obj\Debug\netcoreapp2.1\Server.Library.csprojAssemblyReference.cache
 G:\mir2-master\Server\obj\Debug\netcoreapp2.1\Server.Library.AssemblyInfoInputs.cache
 G:\mir2-master\Server\obj\Debug\netcoreapp2.1\Server.Library.AssemblyInfo.cs
 G:\mir2-master\Server\obj\Debug\netcoreapp2.1\Server.Library.dll
