@@ -342,7 +342,7 @@ namespace Client.MirScenes
         public sealed class LoginDialog : MirImageControl
         {
             public MirImageControl TitleLabel, AccountIDLabel, PassLabel;
-            public MirButton AccountButton, CloseButton, OKButton, OKButton1, PassButton, ViewKeyButton;
+            public MirButton AccountButton, CloseButton, OKButton, PassButton, ViewKeyButton;
             public MirTextBox AccountIDTextBox, PasswordTextBox;
             private bool _accountIDValid, _passwordValid;
 
@@ -389,18 +389,8 @@ namespace Client.MirScenes
                         Parent = this,
                         PressedIndex = 322
                     };
-                OKButton1 = new MirButton
-                {
-                    Enabled = false,
-                    Size = new Size(42, 42),
-                    HoverIndex = 799,
-                    Index = 798,
-                    Library = Libraries.Title,
-                    Location = new Point(227, 81),
-                    Parent = this,
-                    PressedIndex = 800
-                };
-                OKButton1.Click += (o, e) => Login();
+ 
+                OKButton.Click += (o, e) => Login();
 
                 AccountButton = new MirButton
                     {

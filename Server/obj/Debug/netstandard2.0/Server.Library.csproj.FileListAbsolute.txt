@@ -6,3 +6,11 @@ G:\mir2-master\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.Assemb
 G:\mir2-master\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.dll
 G:\mir2-master\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.pdb
 G:\mir2-master\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.csprojAssemblyReference.cache
+G:\mir2-master\Build\Server\netstandard2.0\Server.Library.deps.json
+G:\mir2-master\Build\Server\netstandard2.0\Server.Library.dll
+G:\mir2-master\Build\Server\netstandard2.0\Server.Library.pdb
+G:\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.csprojAssemblyReference.cache
+G:\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.AssemblyInfoInputs.cache
+G:\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.AssemblyInfo.cs
+G:\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.dll
+G:\mir2-master\Server\obj\Debug\netstandard2.0\Server.Library.pdb
