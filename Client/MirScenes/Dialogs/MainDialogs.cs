@@ -1190,7 +1190,7 @@ namespace Client.MirScenes.Dialogs
             };
             NormalButton.Click += (o, e) =>
             {
-                ToggleChatFilter("All");
+                ToggleChatFilter("全部");
             };
 
             ShoutButton = new MirButton
@@ -1206,7 +1206,7 @@ namespace Client.MirScenes.Dialogs
             };
             ShoutButton.Click += (o, e) =>
             {
-                ToggleChatFilter("Shout");
+                ToggleChatFilter("大喊");
             };
 
             WhisperButton = new MirButton
@@ -1222,7 +1222,7 @@ namespace Client.MirScenes.Dialogs
             };
             WhisperButton.Click += (o, e) =>
             {
-                ToggleChatFilter("Whisper");
+                ToggleChatFilter("密语");
             };
 
             LoverButton = new MirButton
@@ -1238,7 +1238,7 @@ namespace Client.MirScenes.Dialogs
             };
             LoverButton.Click += (o, e) =>
             {
-                ToggleChatFilter("Lover");
+                ToggleChatFilter("配偶");
             };
 
             MentorButton = new MirButton
@@ -1254,7 +1254,7 @@ namespace Client.MirScenes.Dialogs
             };
             MentorButton.Click += (o, e) =>
             {
-                ToggleChatFilter("Mentor");
+                ToggleChatFilter("师徒");
             };
 
             GroupButton = new MirButton
@@ -1270,7 +1270,7 @@ namespace Client.MirScenes.Dialogs
             };
             GroupButton.Click += (o, e) =>
             {
-                ToggleChatFilter("Group");
+                ToggleChatFilter("队伍");
             };
 
             GuildButton = new MirButton
@@ -1287,7 +1287,7 @@ namespace Client.MirScenes.Dialogs
             GuildButton.Click += (o, e) =>
             {
                 Settings.ShowGuildChat = !Settings.ShowGuildChat;
-                ToggleChatFilter("Guild");
+                ToggleChatFilter("门派");
             };
 
             TradeButton = new MirButton
@@ -1312,7 +1312,7 @@ namespace Client.MirScenes.Dialogs
                 Parent = this,
                 Location = new Point(Settings.Resolution != 800 ? 552 : 328, 1),
                 Sound = SoundList.ButtonA,
-                Hint = "Report",
+                Hint = "报告",
                 Visible = false
             };
             ReportButton.Click += (o, e) =>
@@ -1320,7 +1320,7 @@ namespace Client.MirScenes.Dialogs
                 GameScene.Scene.ReportDialog.Visible = !GameScene.Scene.ReportDialog.Visible;
             };
 
-            ToggleChatFilter("All");
+            ToggleChatFilter("全部");
         }
 
         public void ToggleChatFilter(string chatFilter)
@@ -1344,37 +1344,37 @@ namespace Client.MirScenes.Dialogs
 
             switch (chatFilter)
             {
-                case "All":
+                case "全部":
                     NormalButton.Index = 2038;
                     NormalButton.HoverIndex = 2038;
                     GameScene.Scene.ChatDialog.ChatPrefix = "";
                     break;
-                case "Shout":
+                case "大喊":
                     ShoutButton.Index = 2041;
                     ShoutButton.HoverIndex = 2041;
                     GameScene.Scene.ChatDialog.ChatPrefix = "!";
                     break;
-                case "Whisper":
+                case "密语":
                     WhisperButton.Index = 2044;
                     WhisperButton.HoverIndex = 2044;
                     GameScene.Scene.ChatDialog.ChatPrefix = "/";
                     break;
-                case "Group":
+                case "队伍":
                     GroupButton.Index = 2053;
                     GroupButton.HoverIndex = 2053;
                     GameScene.Scene.ChatDialog.ChatPrefix = "!!";
                     break;
-                case "Guild":
+                case "门派":
                     GuildButton.Index = 2056;
                     GuildButton.HoverIndex = 2056;
                     GameScene.Scene.ChatDialog.ChatPrefix = "!~";
                     break;
-                case "Lover":
+                case "配偶":
                     LoverButton.Index = 2047;
                     LoverButton.HoverIndex = 2047;
                     GameScene.Scene.ChatDialog.ChatPrefix = ":)";
                     break;
-                case "Mentor":
+                case "师徒":
                     MentorButton.Index = 2050;
                     MentorButton.HoverIndex = 2050;
                     GameScene.Scene.ChatDialog.ChatPrefix = "!#";
@@ -3372,13 +3372,13 @@ namespace Client.MirScenes.Dialogs
 
                 if (GroupDialog.GroupList.Count >= Globals.MaxGroup)
                 {
-                    GameScene.Scene.ChatDialog.ReceiveChat("Your group already has the maximum number of members.", ChatType.System);
+                    GameScene.Scene.ChatDialog.ReceiveChat("您的队伍已满.", ChatType.System);
                     return;
                 }
                 if (GroupDialog.GroupList.Count > 0 && GroupDialog.GroupList[0] != MapObject.User.Name)
                 {
 
-                    GameScene.Scene.ChatDialog.ReceiveChat("You are not the leader of your group.", ChatType.System);
+                    GameScene.Scene.ChatDialog.ReceiveChat("您不是队长.", ChatType.System);
                 }
 
                 Network.Enqueue(new C.AddMember { Name = Name });
@@ -3394,7 +3394,7 @@ namespace Client.MirScenes.Dialogs
                 Parent = this,
                 PressedIndex = 436,
                 Sound = SoundList.ButtonA,
-                Hint = "Add to Friends List",
+                Hint = "添加到好友列表",
             };
             FriendButton.Click += (o, e) =>
             {
@@ -3410,7 +3410,7 @@ namespace Client.MirScenes.Dialogs
                 Parent = this,
                 PressedIndex = 439,
                 Sound = SoundList.ButtonA,
-                Hint = "Send Mail",
+                Hint = "发送邮件",
             };
             MailButton.Click += (o, e) => GameScene.Scene.MailComposeLetterDialog.ComposeMail(Name);
 
@@ -3423,7 +3423,7 @@ namespace Client.MirScenes.Dialogs
                 Parent = this,
                 PressedIndex = 525,
                 Sound = SoundList.ButtonA,
-                Hint = "Trade",
+                Hint = "交易",
             };
             TradeButton.Click += (o, e) => Network.Enqueue(new C.TradeRequest());
 
@@ -3705,7 +3705,7 @@ namespace Client.MirScenes.Dialogs
             SkillModeOff.Click += (o, e) =>
             {
                 Settings.SkillMode = false;
-                GameScene.Scene.ChatDialog.ReceiveChat("<SkillMode 1>", ChatType.Hint);
+                GameScene.Scene.ChatDialog.ReceiveChat("<技能模式 1>", ChatType.Hint);
                 ToggleSkillButtons(true);
             };
 
@@ -3809,7 +3809,7 @@ namespace Client.MirScenes.Dialogs
             HPViewOn.Click += (o, e) =>
             {
                 Settings.HPView = true;
-                GameScene.Scene.ChatDialog.ReceiveChat("<HP/MP Mode 1>", ChatType.Hint);
+                GameScene.Scene.ChatDialog.ReceiveChat("<HP/MP 模式 1>", ChatType.Hint);
             };
 
             HPViewOff = new MirButton
@@ -3824,7 +3824,7 @@ namespace Client.MirScenes.Dialogs
             HPViewOff.Click += (o, e) =>
             {
                 Settings.HPView = false;
-                GameScene.Scene.ChatDialog.ReceiveChat("<HP/MP Mode 2>", ChatType.Hint);
+                GameScene.Scene.ChatDialog.ReceiveChat("<HP/MP 模式 2>", ChatType.Hint);
             };
 
             SoundBar = new MirImageControl

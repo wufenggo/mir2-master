@@ -137,7 +137,7 @@ namespace Client.MirScenes.Dialogs
                     return;
                 }
 
-                MirMessageBox messageBox = new MirMessageBox(string.Format("Cancelling a Mentorship early will cause a cooldown. Are you sure?"), MirMessageBoxButtons.YesNo);
+                MirMessageBox messageBox = new MirMessageBox(string.Format("提前取消师徒关系会导致冷却时间。你确定?"), MirMessageBoxButtons.YesNo);
 
                 messageBox.YesButton.Click += (oo, ee) => Network.Enqueue(new C.CancelMentor { });
                 messageBox.NoButton.Click += (oo, ee) => { messageBox.Dispose(); };
@@ -181,7 +181,7 @@ namespace Client.MirScenes.Dialogs
                 NotControl = true,
                 Font = new Font(Settings.FontName, 7F),
                 Visible = false,
-                Text = "ONLINE",
+                Text = "在线",
             };
 
             StudentNameLabel = new MirLabel
@@ -219,7 +219,7 @@ namespace Client.MirScenes.Dialogs
                 NotControl = true,
                 Font = new Font(Settings.FontName, 7F),
                 Visible = false,
-                Text = "ONLINE",
+                Text = "在线",
             };
 
             MentorLabel = new MirLabel
@@ -232,7 +232,7 @@ namespace Client.MirScenes.Dialogs
                 Parent = this,
                 NotControl = true,
                 Font = new Font(Settings.FontName, 7F),
-                Text = "MENTOR",
+                Text = "师傅",
             };
 
             StudentLabel = new MirLabel
@@ -245,7 +245,7 @@ namespace Client.MirScenes.Dialogs
                 Parent = this,
                 NotControl = true,
                 Font = new Font(Settings.FontName, 7F),
-                Text = "MENTEE",
+                Text = "徒弟",
             };
 
             MenteeEXPLabel = new MirLabel
@@ -300,30 +300,30 @@ namespace Client.MirScenes.Dialogs
             if (GameScene.User.Level > MentorLevel)
             {
                 MentorNameLabel.Text = GameScene.User.Name;
-                MentorLevelLabel.Text = "Lv " + GameScene.User.Level.ToString();
+                MentorLevelLabel.Text = "等级 " + GameScene.User.Level.ToString();
                 MentorOnlineLabel.Visible = false;
 
                 StudentNameLabel.Text = MentorName;
-                StudentLevelLabel.Text = "Lv " + MentorLevel.ToString();
+                StudentLevelLabel.Text = "等级 " + MentorLevel.ToString();
                 if (MentorOnline)
                     StudentOnlineLabel.Visible = true;
                 else
                     StudentOnlineLabel.Visible = false;
 
                 MenteeEXPLabel.Visible = true;
-                MenteeEXPLabel.Text = "MENTEE EXP: " + MenteeEXP;
+                MenteeEXPLabel.Text = "徒弟经验: " + MenteeEXP;
             }
             else
             {
                 MentorNameLabel.Text = MentorName;
-                MentorLevelLabel.Text = "Lv " + MentorLevel.ToString();
+                MentorLevelLabel.Text = "等级 " + MentorLevel.ToString();
                 if (MentorOnline)
                     MentorOnlineLabel.Visible = true;
                 else
                     MentorOnlineLabel.Visible = false;
 
                 StudentNameLabel.Text = GameScene.User.Name;
-                StudentLevelLabel.Text = "Lv " + GameScene.User.Level.ToString();
+                StudentLevelLabel.Text = "等级 " + GameScene.User.Level.ToString();
                 StudentOnlineLabel.Visible = false;
             }
         }

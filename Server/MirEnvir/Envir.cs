@@ -1533,7 +1533,7 @@ namespace Server.MirEnvir
                 var drop = DropInfo.FromLine(lines[i]);
                 if (drop == null)
                 {
-                    MessageQueue.Enqueue($"Could not load strongbox drop: {lines[i]}");
+                    MessageQueue.Enqueue($"无法加载箱子爆率: {lines[i]}");
                     continue;
                 }
 
@@ -1573,7 +1573,7 @@ namespace Server.MirEnvir
                 var drop = DropInfo.FromLine(lines[i]);
                 if (drop == null)
                 {
-                    MessageQueue.Enqueue($"Could not load blackstone drop: {lines[i]}");
+                    MessageQueue.Enqueue($"加载 blackstone 爆率: {lines[i]}");
                     continue;
                 }
 
@@ -1810,7 +1810,7 @@ namespace Server.MirEnvir
         {
             new Thread(() =>
             {
-                MessageQueue.Enqueue("Server rebooting...");
+                MessageQueue.Enqueue("正在重新启动服务器。。。");
                 Stop();
                 Start();
             }).Start();
@@ -1834,11 +1834,11 @@ namespace Server.MirEnvir
                 .ToArray())
                 RecipeInfoList.Add(new RecipeInfo(recipe));
 
-            MessageQueue.Enqueue($"{RecipeInfoList.Count} Recipes loaded.");
+            MessageQueue.Enqueue($"{RecipeInfoList.Count} 加载的配方.");
 
             for (var i = 0; i < MapInfoList.Count; i++)
                 MapInfoList[i].CreateMap();
-            MessageQueue.Enqueue($"{MapInfoList.Count} Maps Loaded.");
+            MessageQueue.Enqueue($"{MapInfoList.Count} 地图加载.");
 
             for (var i = 0; i < ItemInfoList.Count; i++)
             {
@@ -1853,7 +1853,7 @@ namespace Server.MirEnvir
             LoadAwakeningMaterials();
             LoadStrongBoxDrops();
             LoadBlackStoneDrops();
-            MessageQueue.Enqueue("Drops Loaded.");
+            MessageQueue.Enqueue("爆率重载...");
 
             if (DragonInfo.Enabled)
             {
@@ -1863,14 +1863,14 @@ namespace Server.MirEnvir
                     if (DragonSystem.Load()) DragonSystem.Info.LoadDrops();
                 }
 
-                MessageQueue.Enqueue("Dragon Loaded.");
+                MessageQueue.Enqueue("龙加载.");
             }
 
             DefaultNPC = new NPCObject(new NPCInfo() { Name = "DefaultNPC", FileName = Settings.DefaultNPCFilename, IsDefault = true });
             MonsterNPC = new NPCObject(new NPCInfo() { Name = "MonsterNPC", FileName = Settings.MonsterNPCFilename, IsDefault = true });
             RobotNPC = new NPCObject(new NPCInfo() { Name = "RobotNPC", FileName = Settings.RobotNPCFilename, IsDefault = true, IsRobot = true });
 
-            MessageQueue.Enqueue("Envir Started.");
+            MessageQueue.Enqueue("环境启动.");
         }
         private void StartNetwork()
         {
@@ -1892,7 +1892,7 @@ namespace Server.MirEnvir
                 _StatusPort.Start();
                 _StatusPort.BeginAcceptTcpClient(StatusConnection, null);
             }
-            MessageQueue.Enqueue("Network Started.");
+            MessageQueue.Enqueue("网络启动.");
 
             //FixGuilds();
         }
@@ -1911,7 +1911,7 @@ namespace Server.MirEnvir
 
             GC.Collect();
 
-            MessageQueue.Enqueue("Envir Stopped.");
+            MessageQueue.Enqueue("环境停止.");
         }
         private void StopNetwork()
         {
@@ -1957,7 +1957,7 @@ namespace Server.MirEnvir
 
 
             StatusConnections.Clear();
-            MessageQueue.Enqueue("Network Stopped.");
+            MessageQueue.Enqueue("网络停止.");
         }
 
         private void CleanUp()
@@ -2287,7 +2287,7 @@ namespace Server.MirEnvir
                 if (account.WrongPasswordCount++ >= 5)
                 {
                     account.Banned = true;
-                    account.BanReason = "Too many Wrong Login Attempts.";
+                    account.BanReason = "错误登录尝试过多.";
                     account.ExpiryDate = DateTime.Now.AddMinutes(2);
 
                     c.Enqueue(new ServerPackets.LoginBanned
@@ -2359,7 +2359,7 @@ namespace Server.MirEnvir
                 if (account.WrongPasswordCount++ >= 5)
                 {
                     account.Banned = true;
-                    account.BanReason = "Too many Wrong Login Attempts.";
+                    account.BanReason = "错误登录尝试过多.";
                     account.ExpiryDate = DateTime.Now.AddMinutes(2);
                     return 5;
                 }
@@ -2967,7 +2967,7 @@ namespace Server.MirEnvir
                         if (rentingPlayer.Player == null)
                             continue;
 
-                        rentingPlayer.Player.ReceiveChat($"{item.Info.FriendlyName} has just expired from your inventory.", ChatType.Hint);
+                        rentingPlayer.Player.ReceiveChat($"{item.Info.FriendlyName}刚从您的库存中过期.", ChatType.Hint);
                         rentingPlayer.Player.Enqueue(new S.DeleteItem { UniqueID = item.UniqueID, Count = item.Count });
                         rentingPlayer.Player.RefreshStats();
                     }
@@ -2989,7 +2989,7 @@ namespace Server.MirEnvir
                         if (rentingPlayer.Player == null)
                             continue;
 
-                        rentingPlayer.Player.ReceiveChat($"{item.Info.FriendlyName} has just expired from your inventory.", ChatType.Hint);
+                        rentingPlayer.Player.ReceiveChat($"{item.Info.FriendlyName} 刚从您的库存中过期.", ChatType.Hint);
                         rentingPlayer.Player.Enqueue(new S.DeleteItem { UniqueID = item.UniqueID, Count = item.Count });
                         rentingPlayer.Player.RefreshStats();
                     }
@@ -3084,7 +3084,7 @@ namespace Server.MirEnvir
             }
 
             ResetGS = false;
-            MessageQueue.Enqueue("Gameshop Purchase Logs Cleared.");
+            MessageQueue.Enqueue("清除商城购买日志.");
 
         }
 

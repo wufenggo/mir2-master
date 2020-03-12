@@ -500,7 +500,7 @@ namespace Server.MirEnvir
                 MessageQueue.Enqueue(ex);
             }
 
-            MessageQueue.Enqueue("Failed to Load Map: " + Info.FileName);
+            MessageQueue.Enqueue("未能加载地图: " + Info.FileName);
             return false;
         }
 
@@ -771,7 +771,7 @@ namespace Server.MirEnvir
                             respawn.ErrorCount++;
 
                             File.AppendAllText(Path.Combine(Settings.ErrorPath, "SpawnErrors.txt"),
-                                String.Format("[{5}]Failed to spawn: mapindex: {0} ,mob info: index: {1} spawncoords ({2}:{3}) range {4}", respawn.Map.Info.Index, respawn.Info.MonsterIndex, respawn.Info.Location.X, respawn.Info.Location.Y, respawn.Info.Spread, DateTime.Now)
+                                String.Format("[{5}]无法生成: 地图序号: {0} ,怪物信息: 序号: {1} 生成坐标 ({2}:{3}) 范围 {4}", respawn.Map.Info.Index, respawn.Info.MonsterIndex, respawn.Info.Location.X, respawn.Info.Location.Y, respawn.Info.Spread, DateTime.Now)
                                        + Environment.NewLine);
                             //*/
                         }

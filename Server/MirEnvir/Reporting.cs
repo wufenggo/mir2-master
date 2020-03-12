@@ -65,9 +65,9 @@ namespace Server.MirEnvir
                 // Get the line number from the stack frame
                 var line = frame.GetFileLineNumber();
 
-                MessageQueue.Enqueue("Could not save player reporting");
+                MessageQueue.Enqueue("无法保存玩家报告");
                 File.AppendAllText(Settings.ErrorPath + "Error.txt",
-                string.Format("[{0}] {1} at line {2}{3}", DateTime.Now, ex, line, Environment.NewLine));
+                string.Format("[{0}] {1} 行 {2}{3}", DateTime.Now, ex, line, Environment.NewLine));
             }
 
             _baseDir = baseDir;
@@ -81,7 +81,7 @@ namespace Server.MirEnvir
 
         public void MapChange(string source, MapInfo oldMap, MapInfo newMap, string info = "")
         {
-            string task = string.Format("Moved Map {0} => {1}", oldMap.FileName, newMap.FileName);
+            string task = string.Format("移动地图 {0} => {1}", oldMap.FileName, newMap.FileName);
 
             Action action = new Action { Source = source, Task = task, AddedInfo = info };
 
@@ -101,7 +101,7 @@ namespace Server.MirEnvir
             string task = string.Empty;
             if (fromItem != null && toItem != null)
             {
-                task = string.Format("Item Combined - {0} with {1} from {2} to {3} in {4} ({5})", fromItem.Info.Name, toItem.Info.Name, slotFrom, slotTo, grid, toItem.UniqueID);
+                task = string.Format("物品总和 - {0} 和 {1} 起 {2} 到 {3} in {4} ({5})", fromItem.Info.Name, toItem.Info.Name, slotFrom, slotTo, grid, toItem.UniqueID);
             }
 
             Action action = new Action { Source = source, Task = task };
@@ -115,7 +115,7 @@ namespace Server.MirEnvir
 
             if (item != null)
             {
-                task = string.Format("Item Moved - {0} from {1}:{2} to {3}:{4} ({5})", item.Info.Name, from, slotFrom, to, slotTo, item.UniqueID);
+                task = string.Format("物品移动 - {0} from {1}:{2} to {3}:{4} ({5})", item.Info.Name, from, slotFrom, to, slotTo, item.UniqueID);
             }
 
             Action action = new Action { Source = source, Task = task, AddedInfo = info };
@@ -131,16 +131,16 @@ namespace Server.MirEnvir
             switch (state)
             {
                 case 1:
-                    type = "Lost";
+                    type = "丢失";
                     break;
                 case 2:
-                    type = "Gained";
+                    type = "获得";
                     break;
             }
 
             if (item != null)
             {
-                task = string.Format("Item {0} - {1} x{2} ({3})", type, item.Info.Name, amount, item.UniqueID);
+                task = string.Format("物品 {0} - {1} x{2} ({3})", type, item.Info.Name, amount, item.UniqueID);
             }
 
             Action action = new Action { Source = source, Task = task };
@@ -155,7 +155,7 @@ namespace Server.MirEnvir
 
             if (item != null)
             {
-                task = string.Format("Purchased {1} x{0} for {2} Credits and {3} Gold.", item.Info.FriendlyName, amount, CreditCost, GoldCost );
+                task = string.Format("购买 {1} x{0} for {2} Credits and {3} Gold.", item.Info.FriendlyName, amount, CreditCost, GoldCost );
             }
 
             Action action = new Action { Source = source, Task = task };
@@ -171,13 +171,13 @@ namespace Server.MirEnvir
             switch (reason)
             {
                 case 1:
-                    message = "Could not return item to bag after trade.";
+                    message = "交易后无法将物品退回袋子.";
                     break;
                 case 2:
-                    message = "Item rental expired.";
+                    message = "物品租赁到期.";
                     break;
                 case 3:
-                    message = "Could not return item to bag after rental.";
+                    message = "租赁后无法将物品退回袋子.";
                     break;
                 default:
                     message = "No reason provided.";
@@ -229,7 +229,7 @@ namespace Server.MirEnvir
 
         public void KilledPlayer(string source, PlayerObject obj, string info = "")
         {
-            string task = string.Format("Killed Player {0}", obj.Name);
+            string task = string.Format("杀死玩家 {0}", obj.Name);
 
             Action action = new Action { Source = source, Task = task, AddedInfo = info };
 
@@ -238,7 +238,7 @@ namespace Server.MirEnvir
 
         public void KilledMonster(string source, MonsterObject obj, string info = "")
         {
-            string task = string.Format("Killed Monster {0}", obj.Name);
+            string task = string.Format("杀死怪物 {0}", obj.Name);
 
             Action action = new Action { Source = source, Task = task, AddedInfo = info };
 
@@ -251,7 +251,7 @@ namespace Server.MirEnvir
 
         public void ChatMessage(string msg)
         {
-            string task = string.Format("Chat: {0}", msg);
+            string task = string.Format("聊天: {0}", msg);
 
             Action action = new Action { Task = task };
 
@@ -273,24 +273,24 @@ namespace Server.MirEnvir
 
             if(!string.IsNullOrEmpty(map))
             {
-                string.Format("Map {0}", map);
+                string.Format("地图 {0}", map);
             }
 
-            Action action = new Action { Task = "Died", AddedInfo = info };
+            Action action = new Action { Task = "死亡", AddedInfo = info };
 
             RecordAction(action);
         }
 
         public void Connected(string ipAddress)
         {
-            Action action = new Action { Task = "Connected", AddedInfo = ipAddress };
+            Action action = new Action { Task = "连接", AddedInfo = ipAddress };
 
             RecordAction(action);
         }
 
         public void Disconnected(string reason)
         {
-            Action action = new Action { Task = "Disconnected", AddedInfo = reason };
+            Action action = new Action { Task = "断开连接", AddedInfo = reason };
 
             RecordAction(action);
         }
