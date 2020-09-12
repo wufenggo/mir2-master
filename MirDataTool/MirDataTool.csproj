@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B73BFA23-922C-4629-808D-CFD8D9AAA8B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MirDataTool</RootNamespace>
+    <AssemblyName>MirDataTool</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\BUILDS\Tools\Data Tool\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\ClientPackets.cs">
+      <Link>ClientPackets.cs</Link>
+    </Compile>
+    <Compile Include="..\Common.cs">
+      <Link>Common.cs</Link>
+    </Compile>
+    <Compile Include="..\ServerPackets.cs">
+      <Link>ServerPackets.cs</Link>
+    </Compile>
+    <Compile Include="ConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigForm.Designer.cs">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConquestInfo.cs" />
+    <Compile Include="ConquestToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ConquestToolPanel.Designer.cs">
+      <DependentUpon>ConquestToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraftTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CraftTool.Designer.cs">
+      <DependentUpon>CraftTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DopInfo.cs" />
+    <Compile Include="DropBuilderPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DropBuilderPanel.Designer.cs">
+      <DependentUpon>DropBuilderPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameShopToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GameShopToolPanel.Designer.cs">
+      <DependentUpon>GameShopToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ItemToolPanel.Designer.cs">
+      <DependentUpon>ItemToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapInfo.cs" />
+    <Compile Include="MapToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MapToolPanel.Designer.cs">
+      <DependentUpon>MapToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MirDataTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MirDataTool.Designer.cs">
+      <DependentUpon>MirDataTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonsterInfo.cs" />
+    <Compile Include="MonsterToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MonsterToolPanel.Designer.cs">
+      <DependentUpon>MonsterToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovementInfo.cs" />
+    <Compile Include="NPCInfo.cs" />
+    <Compile Include="NPCToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NPCToolPanel.Designer.cs">
+      <DependentUpon>NPCToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicEventInfo.cs" />
+    <Compile Include="QuestInfo.cs" />
+    <Compile Include="QuestToolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuestToolPanel.Designer.cs">
+      <DependentUpon>QuestToolPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RespawnInfo.cs" />
+    <Compile Include="SafeZoneInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <EmbeddedResource Include="ConfigForm.resx">
+      <DependentUpon>ConfigForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConquestToolPanel.resx">
+      <DependentUpon>ConquestToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraftTool.resx">
+      <DependentUpon>CraftTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DropBuilderPanel.resx">
+      <DependentUpon>DropBuilderPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameShopToolPanel.resx">
+      <DependentUpon>GameShopToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemToolPanel.resx">
+      <DependentUpon>ItemToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapToolPanel.resx">
+      <DependentUpon>MapToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MirDataTool.resx">
+      <DependentUpon>MirDataTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonsterToolPanel.resx">
+      <DependentUpon>MonsterToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NPCToolPanel.resx">
+      <DependentUpon>NPCToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuestToolPanel.resx">
+      <DependentUpon>QuestToolPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

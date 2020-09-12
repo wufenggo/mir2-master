@@ -1,0 +1,59 @@
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\bin\Debug\ServerManagerTool.exe.config
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\bin\Debug\ServerManagerTool.exe
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\bin\Debug\ServerManagerTool.pdb
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.Properties.Resources.resources
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.ServerManagerForm.resources
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.GenerateResource.cache
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.CoreCompileInputs.cache
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.exe
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.pdb
+E:\Project X\project-mir-x\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\bin\Debug\ServerManagerTool.exe.config
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\bin\Debug\ServerManagerTool.exe
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\bin\Debug\ServerManagerTool.pdb
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csprojAssemblyReference.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.Properties.Resources.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.ServerManagerForm.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.exe
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.pdb
+E:\Project X\Monitor Tool\ServerManagerTool.exe.config
+E:\Project X\Monitor Tool\ServerManagerTool.exe
+E:\Project X\Monitor Tool\ServerManagerTool.pdb
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csprojResolveAssemblyReference.cache
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.Properties.Resources.resources
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.ServerManagerForm.resources
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.GenerateResource.cache
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.CoreCompileInputs.cache
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.exe
+E:\Project X\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.pdb
+D:\Mir 2\Edens-Elite\Monitor Tool\ServerManagerTool.exe.config
+D:\Mir 2\Edens-Elite\Monitor Tool\ServerManagerTool.exe
+D:\Mir 2\Edens-Elite\Monitor Tool\ServerManagerTool.pdb
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.Properties.Resources.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.ServerManagerForm.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.GenerateResource.cache
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.CoreCompileInputs.cache
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.exe
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.pdb
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\ServerManagerTool\obj\Debug\ServerManagerTool.csprojAssemblyReference.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Monitor\ServerManagerTool.exe.config
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Monitor\ServerManagerTool.exe
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Monitor\ServerManagerTool.pdb
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.csprojAssemblyReference.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.Properties.Resources.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.ServerManagerForm.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.GenerateResource.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.CoreCompileInputs.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.exe
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.pdb
+C:\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Monitor\ServerManagerTool.exe.config
+C:\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Monitor\ServerManagerTool.exe
+C:\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Monitor\ServerManagerTool.pdb
+C:\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.Properties.Resources.resources
+C:\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.ServerManagerForm.resources
+C:\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.GenerateResource.cache
+C:\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.csproj.CoreCompileInputs.cache
+C:\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.exe
+C:\Users\Ice\Documents\project-mir-x Ice\ServerManagerTool\obj\Debug\ServerManagerTool.pdb

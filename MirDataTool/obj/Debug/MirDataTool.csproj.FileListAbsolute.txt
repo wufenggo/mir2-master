@@ -1,0 +1,204 @@
+E:\EdenEliteMir2\Source\MirDataTool\bin\Debug\MirDataTool.exe.config
+E:\EdenEliteMir2\Source\MirDataTool\bin\Debug\MirDataTool.exe
+E:\EdenEliteMir2\Source\MirDataTool\bin\Debug\MirDataTool.pdb
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.Cache
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.exe
+E:\EdenEliteMir2\Source\MirDataTool\obj\Debug\MirDataTool.pdb
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\bin\Debug\MirDataTool.exe.config
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\bin\Debug\MirDataTool.exe
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\bin\Debug\MirDataTool.pdb
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.Cache
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.exe
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.pdb
+E:\EdenEliteMir2\Source Ice\Source\MirDataTool\obj\Debug\MirDataTool.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\MirDataTool\MirDataTool.exe.config
+C:\Users\John\Desktop\MirDataTool\MirDataTool.exe
+C:\Users\John\Desktop\MirDataTool\MirDataTool.pdb
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+E:\project-mir-x\MirDataTool.exe.config
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.exe
+E:\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.pdb
+E:\project-mir-x\MirDataTool.exe
+E:\project-mir-x\MirDataTool.pdb
+C:\Users\John\Desktop\Source\Project Mir X\MirDataTool.exe.config
+C:\Users\John\Desktop\Source\Project Mir X\MirDataTool.exe
+C:\Users\John\Desktop\Source\Project Mir X\MirDataTool.pdb
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe.config
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\bin\Debug\MirDataTool.pdb
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.exe
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.pdb
+C:\Users\John\Desktop\Source\Project Mir X\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csprojAssemblyReference.cache
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe.config
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\bin\Debug\MirDataTool.pdb
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.exe
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.pdb
+E:\Project X\project-mir-x\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe.config
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\bin\Debug\MirDataTool.pdb
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csprojAssemblyReference.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.exe
+C:\Users\John\Desktop\Mir C shit\project-mir-x back up live\project-mir-x\MirDataTool\obj\Debug\MirDataTool.pdb
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe.config
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\bin\Debug\MirDataTool.pdb
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csprojResolveAssemblyReference.cache
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.exe
+E:\Project X\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.pdb
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe.config
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\bin\Debug\MirDataTool.exe
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\bin\Debug\MirDataTool.pdb
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.exe
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.pdb
+D:\Mir 2\Edens-Elite\project-mir-x Ice\project-mir-x\MirDataTool\obj\Debug\MirDataTool.csprojAssemblyReference.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Data Tool\MirDataTool.exe.config
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Data Tool\MirDataTool.exe
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Data Tool\MirDataTool.pdb
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.exe
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.pdb
+\\DESKTOP-4OFIMDT\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.csprojAssemblyReference.cache
+C:\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Data Tool\MirDataTool.exe.config
+C:\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Data Tool\MirDataTool.exe
+C:\Users\Ice\Documents\project-mir-x Ice\BUILDS\Tools\Data Tool\MirDataTool.pdb
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.csprojAssemblyReference.cache
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.ConfigForm.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.ConquestToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.CraftTool.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.DropBuilderPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.GameShopToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.ItemToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.MapToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.MirDataTool.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.MonsterToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.NPCToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.Properties.Resources.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.QuestToolPanel.resources
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.csproj.GenerateResource.cache
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.csproj.CoreCompileInputs.cache
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.exe
+C:\Users\Ice\Documents\project-mir-x Ice\MirDataTool\obj\Debug\MirDataTool.pdb
